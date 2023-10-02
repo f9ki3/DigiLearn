@@ -1,0 +1,36 @@
+nav div{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(62, 0, 133);
+}
+
+.logo{
+    color: white;
+}
+
+.nav-link button{
+    color: white;
+}
+
+.list-link{
+    width: 100%;
+    justify-content: end;
+    
+}
+
+.search div button{
+    color: white;
+}
+
+.profile{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .list-link {
+      display: none;
+    }
+  }

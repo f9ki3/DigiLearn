@@ -1,0 +1,10 @@
+.row button{
+    width: auto;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .categories{
+      display: none;
+    }
+  }

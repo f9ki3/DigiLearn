@@ -1,0 +1,8 @@
+.verify input{
+    width: 100%;
+}
+
+.verify{
+    display: flex;
+    flex-direction: row;
+}

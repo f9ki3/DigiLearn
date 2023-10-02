@@ -1,0 +1,16 @@
+.row .slogan{
+    margin-top: 100px;
+    
+}
+
+.row .img1{
+    margin-top: 80px;
+}
+
+.row .slogan .btn{
+    background-color: rgb(62, 0, 133); 
+    color: white;
+    height: 50px;
+    width: 40%;
+    margin-top: 20px;
+}
